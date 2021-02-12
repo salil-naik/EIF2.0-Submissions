@@ -1,3 +1,6 @@
 # Ethereum India Fellowship 2.0 Submissions
 
-- [Week2 - Exercise 1](./Week2/1_Storage_test.sol)
+**Week 2 Submissions**
+- [Exercise 1 - Unit test](./Week2/1_Storage_test.sol)
+- [Exercise 2 - Deploy 2_Owner.sol with web3](./Week2/deploy_ethers.js)
+- [Exercise 3 - Convert a string into bytes32 with ethers.js](./Week2/stringToByte32.js)
